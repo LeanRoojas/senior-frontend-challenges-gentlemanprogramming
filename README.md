@@ -10,4 +10,5 @@ In this proyect we use:
   Context,
   MUI,
   Styled Components,
-  MUI DataGrid
+  MUI DataGrid,
+  RxJS,
