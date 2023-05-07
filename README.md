@@ -2,8 +2,8 @@
 
 This is a Senior Frontend Challege, made with the Gentleman Programming's community.
 In this proyect we use:
-  <ul>
-    <li>Hola</li>
+  <ul style="list-style=none;">
+    <li></li>
   <ul/>
   good frontend practices,
   Clean Architecture,
